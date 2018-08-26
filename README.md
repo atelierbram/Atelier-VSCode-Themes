@@ -1,0 +1,3 @@
+# Atelier-Schemes - Color Themes for VS Code
+
+Work in progress ...
