@@ -34,7 +34,7 @@ Screenshot of Atelier_SulpurpoolLight in VSCode
 - [Atelier_SeasideDark](https://i.imgur.com/ZNVAfRj.png)
 - [Atelier_SeasideLight](https://i.imgur.com/pjLScDf.png)
 - [Atelier_SulpurpoolDark](https://i.imgur.com/kERPAWH.png)
-- [Atelier_SulpurpoolDark](https://i.imgur.com/FzHGUgU.png)
+- [Atelier_SulpurpoolLight](https://i.imgur.com/FzHGUgU.png)
 
 </details>
 
