@@ -30,7 +30,7 @@ Screenshot of Atelier_SulpurpoolLight in VSCode
 - [Atelier_PlateauDark](https://i.imgur.com/2cQAChq.png)
 - [Atelier_PlateauLight](https://i.imgur.com/2cQAChq.png)
 - [Atelier_SavannaDark](https://i.imgur.com/TRs5j4V.png)
-- [Atelier_SavannaLight](img]https://i.imgur.com/czFEuR6.png)
+- [Atelier_SavannaLight](https://i.imgur.com/czFEuR6.png)
 - [Atelier_SeasideDark](https://i.imgur.com/ZNVAfRj.png)
 - [Atelier_SeasideLight](https://i.imgur.com/pjLScDf.png)
 - [Atelier_SulpurpoolDark](https://i.imgur.com/kERPAWH.png)
