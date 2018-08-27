@@ -1,0 +1,91 @@
+body[class*="Atelier_CaveDark"] .monaco-workbench > .part.panel.bottom .title {
+  background-color: #26232a;
+}
+body[class*="Atelier_Cave"] .show-file-icons .file-icon::before {
+  color: #7e7887 !important;
+}
+body[class*="Atelier_DuneDark"] .monaco-workbench > .part.panel.bottom .title {
+  background-color: #292824;
+}
+body[class*="Atelier_DuneLight"] .monaco-workbench > .part.panel.bottom .title {
+  background-color: #dbd5bd;
+}
+body[class*="Atelier_Dune"] .show-file-icons .file-icon::before {
+  color: #999580 !important;
+}
+body[class*="Atelier_EstuaryDark"] .monaco-workbench > .part.panel.bottom .title {
+  background-color: #302f27;
+}
+body[class*="Atelier_Estuary"] .show-file-icons .file-icon::before {
+  color: #878573 !important;
+}
+body[class*="Atelier_ForestDark"] .monaco-workbench > .part.panel.bottom .title {
+  background-color: #2c2421;
+}
+body[class*="Atelier_ForestLight"] .monaco-workbench > .part.panel.bottom .title {
+  background-color: #d0cecd;
+}
+body[class*="Atelier_Forest"] .show-file-icons .file-icon::before {
+  color: #9c9491 !important;
+}
+body[class*="Atelier_HeathDark"] .monaco-workbench > .part.panel.bottom .title {
+  background-color: #292329;
+}
+body[class*="Atelier_HeathLight"] .monaco-workbench > .part.panel.bottom .title {
+  background-color: #bfb5bf;
+}
+body[class*="Atelier_HeathLight"] .monaco-workbench .tabs-container>.tab[style]:not(.active) {
+  background-color: #e1dbe1 !important;
+}
+body[class*="Atelier_Heath"] .show-file-icons .file-icon::before {
+  color: #9e8f9e !important;
+}
+body[class*="Atelier_LakesideDark"] .monaco-workbench > .part.panel.bottom .title {
+  background-color: #1f292e;
+}
+body[class*="Atelier_LakesideLight"] .monaco-workbench > .part.panel.bottom .title {
+  background-color: #bed1da;
+}
+body[class*="Atelier_LakesideLight"] .monaco-workbench .tabs-container>.tab[style]:not(.active) {
+  background-color: #d3e5ee !important;
+}
+body[class*="Atelier_Lakeside"] .show-file-icons .file-icon::before {
+  color: #7ba3b7 !important;
+}
+body[class*="Atelier_PlateauDark"] .monaco-workbench > .part.panel.bottom .title {
+  background-color: #292424;
+}
+body[class*="Atelier_Plateau"] .show-file-icons .file-icon::before {
+  color: #7e7777 !important;
+}
+body[class*="Atelier_SavannaDark"] .monaco-workbench > .part.panel.bottom .title {
+  background-color: #232a25;
+}
+body[class*="Atelier_Savanna"] .show-file-icons .file-icon::before {
+  color: #78877d !important;
+}
+body[class*="Atelier_SeasideDark"] .monaco-workbench > .part.panel.bottom .title {
+  background-color: #242924;
+}
+body[class*="Atelier_Seaside"] .show-file-icons .file-icon::before {
+  color: #809980 !important;
+}
+body[class*="Atelier_SeasideLight"] .monaco-workbench > .part.panel.bottom .title {
+  background-color: #c5d3c5;
+}
+body[class*="Atelier_SeasideLight"] .monaco-workbench .tabs-container>.tab[style]:not(.active) {
+  background-color: #dae7da !important;
+}
+body[class*="Atelier_SulphurpoolDark"] .monaco-workbench > .part.panel.bottom .title {
+  background-color: #293256;
+}
+body[class*="Atelier_SulphurpoolLight"] .monaco-workbench > .part.panel.bottom .title {
+  background-color: #cfd3e8;
+}
+body[class*="Atelier_Sulphurpool"] .show-file-icons .file-icon::before {
+  color: #898ea4 !important;
+}
+
+.title-actions .monaco-action-bar .action-item .action-label:hover {
+  outline: 1px solid hsla(200, 0%, 50%,.25);
+}
