@@ -1,6 +1,6 @@
 # Atelier Themes for VS Code
 
-Atelier Schemes are ten colorschemes which by now are implemented in many applications using templates which can work with the Base16-Builder CLI tool<sup>1</sup>. For VS Code the dark - and light templates were created from scratch, making each theme come in a light – and dark background variation. Time and effort was spend to make different markup and programming languages become more readable with these themes in Visual Studio Code. Read more about [Atelier Schemes](https://atelierbram.github.io/syntax-highlighting/atelier-schemes/).
+Atelier Schemes are ten colorschemes which by now are implemented in many applications using templates which can work with the Base16-Builder CLI tool<sup>1</sup>. For VS Code both the dark and light templates were created from scratch, making each theme come in a light and dark background variation. Time and effort was spend to make different markup and programming languages become more readable with these themes in Visual Studio Code. Read more about [Atelier Schemes](https://atelierbram.github.io/syntax-highlighting/atelier-schemes/).
 
 ![Screenshot of Atelier_SulpurpoolDark in VSCode](https://i.imgur.com/kERPAWH.png)
 
@@ -49,7 +49,7 @@ Screenshot of Atelier_SulpurpoolLight in VSCode
 1.  From the menu bar click: Code > Preferences > Color Theme > **Atelier_CaveDark** or any of the other themes (_use the arrow keys to preview_)
 
 ### Tweaks
-Some additional tweaks can be made using the [VSCode Custom CSS extension](https://github.com/be5invis/vscode-custom-css). This requires to have a CSS file on your computer that will hold your custom CSS. And example of some small tweaks I made are in the repo: [atelier-vscode-custom-css.css](https://github.com/atelierbram/Atelier-VSCode-Themes/blob/master/atelier-vscode-custom-css.css), so one can tweak those as well. Small things like the background color for the Panel title (down at the page, when activated - above the statusbar), and monochrome icons ISO colored ones, to make those icons less distracting.
+Some additional tweaks can be made using the [VSCode Custom CSS extension](https://github.com/be5invis/vscode-custom-css). This requires to have a CSS file on your computer that will hold your custom CSS. An example of some small tweaks I made are in the repo: [atelier-vscode-custom-css.css](https://github.com/atelierbram/Atelier-VSCode-Themes/blob/master/atelier-vscode-custom-css.css), so one can tweak those as well. Small things like the background color for the Panel title (down at the page, when activated - above the statusbar), and monochrome icons ISO colored ones, to make those icons less distracting.
 
 Once done, open your command palette and select: `enable custom CSS and JS`
 
@@ -58,4 +58,4 @@ Run the command `Reload Custom CSS and JS` and the Custom CSS should be taking e
 **_Note: Reloading custom CSS and JS after every VSCode update is a must!_**
 
 ### Notes
-1: If interested in the build process, please look inside the `db` folder
+1: If interested in the build process, please look inside the `io.sh` file and the `db` folder
