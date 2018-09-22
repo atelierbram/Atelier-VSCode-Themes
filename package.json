@@ -2,7 +2,7 @@
   "name": "atelier-vscode-themes",
   "displayName": "Atelier VSCode Themes",
   "description": "Atelier Themes for VS Code",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "publisher": "Atelierbram",
   "author": {
     "name": "Bram de Haan"
