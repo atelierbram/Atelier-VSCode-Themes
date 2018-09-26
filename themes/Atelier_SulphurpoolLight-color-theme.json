@@ -273,8 +273,7 @@
         "keyword.control.switch.ts"
       ],
       "settings": {
-        "foreground": "#6679cc",
-        "fontStyle": ""
+        "foreground": "#6679cc"
       }
     },
     {
@@ -882,8 +881,7 @@
       "name": "Class name",
       "scope": ["entity.name.class", "meta.class entity.name.type.class"],
       "settings": {
-        "foreground": "#c76b29",
-        "fontStyle": ""
+        "foreground": "#c76b29"
       }
     },
     {
@@ -1002,8 +1000,7 @@
         "meta.tag.html"
       ],
       "settings": {
-        "foreground": "#ac9739",
-        "fontStyle": ""
+        "foreground": "#ac9739"
       }
     },
     {
@@ -1107,8 +1104,7 @@
       "name": "Keyword Operator",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#22a2c9",
-        "fontStyle": ""
+        "foreground": "#22a2c9"
       }
     },
     {
@@ -1207,8 +1203,7 @@
       "name": "Variable Parameter Function",
       "scope": "variable.parameter.function",
       "settings": {
-        "foreground": "#22a2c9",
-        "fontStyle": ""
+        "foreground": "#22a2c9"
       }
     },
     {
@@ -1220,8 +1215,7 @@
         "meta.property-list entity.name.tag"
       ],
       "settings": {
-        "foreground": "#c08b30",
-        "fontStyle": ""
+        "foreground": "#c08b30"
       }
     },
     {
@@ -1279,8 +1273,7 @@
       "name": "Keyword Operator Logical",
       "scope": "keyword.operator.logical",
       "settings": {
-        "foreground": "#9c637a",
-        "fontStyle": ""
+        "foreground": "#9c637a"
       }
     },
     {
@@ -1313,8 +1306,7 @@
         "variable.object.property.jsx"
       ],
       "settings": {
-        "foreground": "#293256",
-        "fontStyle": ""
+        "foreground": "#293256"
       }
     },
     {
@@ -1453,8 +1445,7 @@
         "support.constant.property-value.css"
       ],
       "settings": {
-        "foreground": "#c08b30",
-        "fontStyle": ""
+        "foreground": "#c08b30"
       }
     },
     {
@@ -1636,8 +1627,7 @@
       "name": "JavaScript Entity Name Type",
       "scope": ["entity.name.type.js", "entity.name.type.module.js"],
       "settings": {
-        "foreground": "#c76b29",
-        "fontStyle": ""
+        "foreground": "#c76b29"
       }
     },
     {
@@ -1896,8 +1886,7 @@
       "name": "Support Class Component",
       "scope": ["support.class.component.js", "support.class.component.tsx"],
       "settings": {
-        "foreground": "#c76b29",
-        "fontStyle": ""
+        "foreground": "#c76b29"
       }
     },
     {
@@ -1981,7 +1970,6 @@
       "scope": "markup.deleted",
       "settings": {
         "background": "#c94922",
-        "fontStyle": "",
         "foreground": "#293256"
       }
     },
@@ -1990,7 +1978,6 @@
       "scope": "markup.changed",
       "settings": {
         "background": "#c08b30",
-        "fontStyle": "",
         "foreground": "#293256"
       }
     },
