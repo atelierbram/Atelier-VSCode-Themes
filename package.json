@@ -1,137 +1,142 @@
 {
-  "name": "atelier-vscode-themes",
-  "displayName": "Atelier VSCode Themes",
-  "description": "Atelier Themes for VS Code",
-  "version": "0.0.11",
-  "publisher": "Atelierbram",
-  "author": {
-    "name": "Bram de Haan"
-  },
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/atelierbram/Atelier-VSCode-Themes.git"
-  },
-  "homepage": "https://github.com/atelierbram/Atelier-VSCode-Themes/blob/master/README.md",
-  "engines": {
-    "vscode": "^1.0.0"
-  },
-  "icon": "icon.png",
-  "galleryBanner": {
-    "color": "#d5e4f1",
-    "theme": "light"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "keywords": [
-    "VSCode",
-    "Atelier",
-    "Schemes",
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Atelier_CaveDark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Atelier_CaveDark-color-theme.json"
-      },
-      {
-        "label": "Atelier_DuneDark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Atelier_DuneDark-color-theme.json"
-      },
-      {
-        "label": "Atelier_EstuaryDark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Atelier_EstuaryDark-color-theme.json"
-      },
-      {
-        "label": "Atelier_ForestDark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Atelier_ForestDark-color-theme.json"
-      },
-      {
-        "label": "Atelier_HeathDark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Atelier_HeathDark-color-theme.json"
-      },
-      {
-        "label": "Atelier_LakesideDark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Atelier_LakesideDark-color-theme.json"
-      },
-      {
-        "label": "Atelier_PlateauDark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Atelier_PlateauDark-color-theme.json"
-      },
-      {
-        "label": "Atelier_SavannaDark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Atelier_SavannaDark-color-theme.json"
-      },
-      {
-        "label": "Atelier_SeasideDark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Atelier_SeasideDark-color-theme.json"
-      },
-      {
-        "label": "Atelier_SulphurpoolDark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Atelier_SulphurpoolDark-color-theme.json"
-      },
-      {
-        "label": "Atelier_CaveLight",
-        "uiTheme": "vs",
-        "path": "./themes/Atelier_CaveLight-color-theme.json"
-      },
-      {
-        "label": "Atelier_DuneLight",
-        "uiTheme": "vs",
-        "path": "./themes/Atelier_DuneLight-color-theme.json"
-      },
-      {
-        "label": "Atelier_EstuaryLight",
-        "uiTheme": "vs",
-        "path": "./themes/Atelier_EstuaryLight-color-theme.json"
-      },
-      {
-        "label": "Atelier_ForestLight",
-        "uiTheme": "vs",
-        "path": "./themes/Atelier_ForestLight-color-theme.json"
-      },
-      {
-        "label": "Atelier_HeathLight",
-        "uiTheme": "vs",
-        "path": "./themes/Atelier_HeathLight-color-theme.json"
-      },
-      {
-        "label": "Atelier_LakesideLight",
-        "uiTheme": "vs",
-        "path": "./themes/Atelier_LakesideLight-color-theme.json"
-      },
-      {
-        "label": "Atelier_PlateauLight",
-        "uiTheme": "vs",
-        "path": "./themes/Atelier_PlateauLight-color-theme.json"
-      },
-      {
-        "label": "Atelier_SavannaLight",
-        "uiTheme": "vs",
-        "path": "./themes/Atelier_SavannaLight-color-theme.json"
-      },
-      {
-        "label": "Atelier_SeasideLight",
-        "uiTheme": "vs",
-        "path": "./themes/Atelier_SeasideLight-color-theme.json"
-      },
-      {
-        "label": "Atelier_SulphurpoolLight",
-        "uiTheme": "vs",
-        "path": "./themes/Atelier_SulphurpoolLight-color-theme.json"
-      }
-    ]
-  }
+	"name": "atelier-vscode-themes",
+	"displayName": "Atelier VSCode Themes",
+	"description": "Atelier Themes for VS Code",
+	"version": "0.0.11",
+	"publisher": "Atelierbram",
+	"author": {
+		"name": "Bram de Haan"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/atelierbram/Atelier-VSCode-Themes.git"
+	},
+	"homepage": "https://github.com/atelierbram/Atelier-VSCode-Themes/blob/master/README.md",
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#d5e4f1",
+		"theme": "light"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"VSCode",
+		"Atelier",
+		"Schemes",
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Atelier_CaveDark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Atelier_CaveDark-color-theme.json"
+			},
+			{
+				"label": "Atelier_DuneDark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Atelier_DuneDark-color-theme.json"
+			},
+			{
+				"label": "Atelier_EstuaryDark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Atelier_EstuaryDark-color-theme.json"
+			},
+			{
+				"label": "Atelier_ForestDark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Atelier_ForestDark-color-theme.json"
+			},
+			{
+				"label": "Atelier_HeathDark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Atelier_HeathDark-color-theme.json"
+			},
+			{
+				"label": "Atelier_LakesideDark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Atelier_LakesideDark-color-theme.json"
+			},
+			{
+				"label": "Atelier_PlateauDark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Atelier_PlateauDark-color-theme.json"
+			},
+			{
+				"label": "Atelier_SavannaDark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Atelier_SavannaDark-color-theme.json"
+			},
+			{
+				"label": "Atelier_SeasideDark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Atelier_SeasideDark-color-theme.json"
+			},
+			{
+				"label": "Atelier_SulphurpoolDark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Atelier_SulphurpoolDark-color-theme.json"
+			},
+			{
+				"label": "Atelier_CaveLight",
+				"uiTheme": "vs",
+				"path": "./themes/Atelier_CaveLight-color-theme.json"
+			},
+			{
+				"label": "Atelier_DuneLight",
+				"uiTheme": "vs",
+				"path": "./themes/Atelier_DuneLight-color-theme.json"
+			},
+			{
+				"label": "Atelier_EstuaryLight",
+				"uiTheme": "vs",
+				"path": "./themes/Atelier_EstuaryLight-color-theme.json"
+			},
+			{
+				"label": "Atelier_ForestLight",
+				"uiTheme": "vs",
+				"path": "./themes/Atelier_ForestLight-color-theme.json"
+			},
+			{
+				"label": "Atelier_HeathLight",
+				"uiTheme": "vs",
+				"path": "./themes/Atelier_HeathLight-color-theme.json"
+			},
+			{
+				"label": "Atelier_LakesideLight",
+				"uiTheme": "vs",
+				"path": "./themes/Atelier_LakesideLight-color-theme.json"
+			},
+			{
+				"label": "Atelier_PlateauLight",
+				"uiTheme": "vs",
+				"path": "./themes/Atelier_PlateauLight-color-theme.json"
+			},
+			{
+				"label": "Atelier_SavannaLight",
+				"uiTheme": "vs",
+				"path": "./themes/Atelier_SavannaLight-color-theme.json"
+			},
+			{
+				"label": "Atelier_SeasideLight",
+				"uiTheme": "vs",
+				"path": "./themes/Atelier_SeasideLight-color-theme.json"
+			},
+			{
+				"label": "Atelier_SulphurpoolLight",
+				"uiTheme": "vs",
+				"path": "./themes/Atelier_SulphurpoolLight-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "472e1584-090f-4b89-8a91-fcdd36a64e5f",
+		"publisherDisplayName": "Atelierbram",
+		"publisherId": "e8498e94-820f-4f07-b46c-ea50ef75a0e7"
+	}
 }
