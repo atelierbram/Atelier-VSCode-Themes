@@ -963,7 +963,7 @@
       "settings": {
         "foreground": "#999580"
       }
-    }, 
+    },
     {
       "name": "Inherited class",
       "scope": "entity.other.inherited-class",
@@ -2125,9 +2125,9 @@
     "editorRuler.foreground": "#6e6b5e80",
     "editorCodeLens.foreground": "#6e6b5eBF",
     "editorHoverWidget.background": "#e8e4cf",
-    "editorMarkerNavigation.background": "#6e6b5e",
-    "editorMarkerNavigationError.background": "#d73737",
-    "editorMarkerNavigationWarning.background": "#ae9513",
+    "editorMarkerNavigation.background": "#fefbec",
+    "editorMarkerNavigationError.background": "#b65611",
+    "editorMarkerNavigationWarning.background": "#d73737",
     "editor.findMatchBackground": "#a6a28c40",
     "editor.findMatchHighlightBackground": "#99958040",
     "editor.findRangeHighlightBackground": null,
