@@ -2229,6 +2229,8 @@
     "meta.objectliteral.js": "#7b59c0",
     "terminal.background": "#d8cad8",
     "terminal.foreground": "#1b181b",
+    "terminal.selectionBackground": "#516aec80",
+    "terminal.findMatchHighlightBackground": "#516aec80",
     "terminal.ansiBlack": "#292329",
     "terminal.ansiRed": "#ca402b",
     "terminal.ansiGreen": "#918b3b",
